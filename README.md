@@ -1,10 +1,25 @@
-# [Start Bootstrap - Agency](https://startbootstrap.com/theme/agency)
+# SNAPS
+## Smart Navigation Automated Parking System
 
-[Agency](https://startbootstrap.com/theme/agency) is a one page, agency portfolio theme built with [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, modal windows for each portfolio item, and a working PHP based contact form.
+Snaps (Smart Navigation Automated Parking System) is a revolutionary artificial intelligence model designed to streamline the parking experience through advanced technology and automation. Snaps utilizes cutting-edge AI algorithms to detect license plates from vehicles, manage entries and exits, and calculate parking fares based on the duration of parking.
+
+
+## Key Features:
+* License Plate Detection: Snaps employs sophisticated artificial intelligence algorithms to accurately detect and recognize license plates from vehicles entering and exiting the parking facility.
+
+* Automated Entry and Exit: With Snaps, the entire entry and exit process is automated. Users simply drive in and out of the parking facility without the need for manual ticketing or access control.
+
+* Dynamic Fare Calculation: Snaps calculates parking fares dynamically based on the duration of parking. Users are charged accurately for the time their vehicle spends parked in the facility.
+
+* Real-Time Monitoring: Snaps provides real-time monitoring of parking occupancy and availability. Users can check the availability of parking spaces before arriving at the facility, reducing search time and congestion.
+
+* Mobile Integration: Snaps offers seamless integration with mobile applications, allowing users to reserve parking spaces in advance, make payments, and receive notifications about their parking session.
+
+* Enhanced Security: Snaps prioritizes the security of vehicles and users within the parking facility. Advanced surveillance and monitoring systems ensure a safe and secure environment at all times.
 
 ## Preview
 
-[![Agency Preview](https://assets.startbootstrap.com/img/screenshots/themes/agency.png)](https://startbootstrap.github.io/startbootstrap-agency/)
+![image](https://github.com/mandeepsinghmankoo/snapsystem/assets/157231301/d5b6980e-4636-4db7-8879-21a17c0be6ec)
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-agency/)**
 
@@ -13,70 +28,22 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-agency/master/LICENSE)
 [![npm version](https://img.shields.io/npm/v/startbootstrap-agency.svg)](https://www.npmjs.com/package/startbootstrap-agency)
 
-## Download and Installation
-
-To begin using this template, choose one of the following options to get started:
-
-- [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/agency)
-- Install using npm: `npm i startbootstrap-agency`
-- Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-agency.git`
-- [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-agency)
-
 ## Usage
 
-### Basic Usage
+To use the Snaps web app, users can simply access the platform through their preferred web browser. New users can register for an account by providing the necessary information, while existing users can log in using their credentials. Once logged in, users can easily find available parking spots through the intuitive dashboard, select a spot, and reserve it for their desired date and time. Upon arrival at the parking facility, users can park their vehicles in their reserved spot, and the Snaps system will automatically detect their license plate and record their entry time. When it's time to leave, users can drive to the exit gate, where the system will calculate the parking fare based on the duration of their stay. Payment can be completed securely through the web app using the available payment methods. For any assistance or feedback, users can reach out to the Snaps support team for prompt assistance.
 
-After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+## Issue Reporting
+Have a bug or an issue with this template? Open a new issue on GitHub.
 
-### Advanced Usage
+## Contributing
 
-Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
+We welcome contributions from the community to further enhance and improve Snaps. If you would like to contribute to the development of Snaps, please follow these guidelines:
 
-#### npm Scripts
+Fork the repository and create a new branch for your contribution.
+Make your changes and submit a pull request, providing a detailed description of the changes made.
+Ensure that your code adheres to the coding standards and guidelines defined in the project.
 
-- `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
-- `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
-- `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
-- `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
-- `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
-- `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
-- `npm run start:debug` runs the project in debug mode
-- `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
-
-You must have npm installed in order to use this build environment.
-
-### Contact Form
-
-The contact form available with this theme is prebuilt to use [SB Forms](https://startbootstrap.com/solution/contact-forms).
-SB Forms is a simple form solution for adding functional forms to your theme. Since this theme is prebuilt using our
-SB Forms markup, all you need to do is sign up for [SB Forms on Start Bootstrap](https://startbootstrap.com/solution/contact-forms).
-
-After signing up you will need to set the domain name your form will be used on, and you will then see your
-access key. Copy this and paste it into the `data-sb-form-api-token='API_TOKEN'` data attribute in place of
-`API_TOKEN`. That's it! Your forms will be up and running!
-
-If you aren't using SB Forms, simply delete the custom data attributes from the form, and remove the link above the
-closing `</body>` tag to SB Forms.
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-agency/issues) here on GitHub or leave a comment on the [theme overview page at Start Bootstrap](https://startbootstrap.com/theme/agency).
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap themes and templates. All of the free themes and templates on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-- <https://startbootstrap.com>
-- <https://twitter.com/SBootstrap>
-
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
-
-- <https://davidmiller.io>
-- <https://twitter.com/davidmillerhere>
-- <https://github.com/davidtmiller>
-
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 ## Copyright and License
-
+The sites are proudly based on StartBootstrap.
 Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE) license.
