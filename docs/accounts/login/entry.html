@@ -46,7 +46,7 @@
               </div>
                 <br>
             <button type="submit" class="btn btn-primary">Login</button>
-  <button type="submit" class="btn btn-primary">Login with GOOGLE LLC Firebase</button> 
+  <button type="submit" class="btn btn-primary" id="login()" >Login with GOOGLE LLC Firebase</button> 
   <button type="submit" class="btn btn-warning" style="color:white">Factory Restore Your SNAPSid Password</button>
   
  <br>
@@ -72,6 +72,10 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
   <script>
+   login(){
+     window.location.href="dashboard.html";
+   }
+
 document.getElementById('loginForm').addEventListener('submit', function(event) {
     event.preventDefault();
 
