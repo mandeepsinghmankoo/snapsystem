@@ -21,7 +21,7 @@ Snaps (Smart Navigation Automated Parking System) is a revolutionary artificial 
 
 ![image](https://github.com/mandeepsinghmankoo/snapsystem/assets/157231301/d5b6980e-4636-4db7-8879-21a17c0be6ec)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-agency/)**
+
 
 ## Status
 
